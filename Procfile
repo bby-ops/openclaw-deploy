@@ -1,1 +1,0 @@
-web: openclaw gateway start
